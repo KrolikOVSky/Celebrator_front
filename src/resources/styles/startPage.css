@@ -1,0 +1,21 @@
+.carousel{
+    max-width: 30vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.legend{
+    background: rgba(0,0,0,0.5)!important;
+}
+
+.legend:hover{
+    border-radius: 0!important;
+}
+
+.picture{
+    max-width: 40vw;
+}
+
+.innerText {
+    font-size: 20pt!important;
+}

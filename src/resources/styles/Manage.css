@@ -1,0 +1,23 @@
+.editItem{
+    margin-bottom: 3rem;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 12px 1px rgba(0,0,0,30%);
+    transition: 200ms;
+}
+
+.editItem:hover{
+    box-shadow: 0 0 20px 5px rgba(0,0,0,30%);
+    transform: scale(1.01);
+}
+
+.editImage{
+    max-width: 15vw;
+}
+
+.form-image{
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px;
+    max-height: 20vh;
+}
